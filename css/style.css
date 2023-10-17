@@ -1135,10 +1135,6 @@ a {
 
 /* ========mobile menu======= */
 .mob-menu-open {
-  position: fixed; /* Set the button to a fixed position */
-  top: -10px; /* Adjust the top distance as needed */
-  right: 11px; /* Adjust the right distance as needed */
-  z-index: 1; /* Ensure the button is above other content */
   padding: 16px 0px;
   line-height: 0;
   background-color: transparent;
